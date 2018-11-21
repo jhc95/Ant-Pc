@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/narsi/Documents/GitHub/STABEL/STABEL/Assets/Game.unity
+  isLoaded: 1
+  isActive: 1
